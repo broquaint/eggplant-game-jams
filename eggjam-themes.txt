@@ -48,7 +48,7 @@ Fighting Words
 Thinking Outside the Box
 Digging the Rabbit Hole
 Getting Feedback
-Nurturing a Spark
+#22 Nurturing a Spark
 #11 Scaling and Scoping
 Envisioning a Future
 Shifting Perspectives in Storytelling
